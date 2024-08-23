@@ -1,0 +1,13 @@
+Primeiros Passos com MongoDB
+
+Show database
+//Exibir todos os bancos
+
+use workshop
+//Acessando o banco de dados /arquivos 
+
+db.costomers.find()
+// Consulta os documentos /registros de uma collection
+
+show collection
+// Exibe todas as coleções de um banco
